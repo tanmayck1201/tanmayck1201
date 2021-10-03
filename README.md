@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanmayck1201&theme=tokyonight)
+
+![Visitor Count](https://profile-counter.glitch.me/tanmayck1201/count.svg)
